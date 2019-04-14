@@ -13,4 +13,5 @@
 [Урок 13](https://valentincherov.github.io/lesson_13/) - Адаптивная верстка.  
 [Урок 14](https://valentincherov.github.io/lesson_14/) - Подготовка файлов. Верстка шапки сайта.  
 [Урок 15](https://valentincherov.github.io/lesson_15/) - Подключение шрифтов. 
+[Урок 16](https://valentincherov.github.io/lesson_16/) - Подключение шрифтов. Верстка первого экрана. 
 
