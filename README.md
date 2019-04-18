@@ -14,5 +14,5 @@
 [Урок 14](https://valentincherov.github.io/lesson_14/) - Подготовка файлов. Верстка шапки сайта.   
 [Урок 15](https://valentincherov.github.io/lesson_15/) - Подключение шрифтов.  
 [Урок 16](https://valentincherov.github.io/lesson_16/) - Подключение шрифтов. Верстка первого экрана.   
-[Урок 17](https://valentincherov.github.io/lesson_17/) - Псевдоклассы и псевдоэлементы. 
-[Урок 18](https://valentincherov.github.io/lesson_18/) - Эффекты при наведении и адаптив первого экрана. 
+[Урок 17](https://valentincherov.github.io/lesson_17/) - Псевдоклассы и псевдоэлементы.   
+[Урок 18](https://valentincherov.github.io/lesson_18/) - Эффекты при наведении и адаптив первого экрана.
