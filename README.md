@@ -16,4 +16,4 @@
 [Урок 16](https://valentincherov.github.io/lesson_16/) - Подключение шрифтов. Верстка первого экрана.   
 [Урок 17](https://valentincherov.github.io/lesson_17/) - Псевдоклассы и псевдоэлементы.   
 [Урок 18](https://valentincherov.github.io/lesson_18/) - Эффекты при наведении и адаптив первого экрана.  
-[Урок 18](https://valentincherov.github.io/lesson_19/) - Слайдер на сайте.
+[Урок 19](https://valentincherov.github.io/lesson_19/) - Слайдер на сайте.
